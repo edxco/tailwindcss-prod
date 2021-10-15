@@ -1,0 +1,10 @@
+/* app/javascript/stylesheets/application.scss */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+
+.head_main {
+  @apply bg-green-900 mt-10 p-9 text-white;
+}
+
+/* Add any custom CSS here */
+@import "tailwindcss/utilities";
